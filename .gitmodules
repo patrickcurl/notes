@@ -1,0 +1,3 @@
+[submodule "awesome/deploy-your-own-saas"]
+	path = awesome/deploy-your-own-saas
+	url = https://github.com/Atarity/deploy-your-own-saas
